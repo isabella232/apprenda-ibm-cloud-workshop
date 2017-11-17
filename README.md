@@ -20,7 +20,7 @@ It’s important to note that you will be using an HTML portal throughout the wo
 3. **Bonus – Integrate an IBM Watson Conversation enabled chatbot!**
    - Turn Watson Chat on
    - Promote application to Published 
-   
+## Prerequisites  
 ## Part 1 – Upload and Deploy a .NET Application with Apprenda
 ## Part 2 – Configure Cloud Features: Monitoring, Scaling, Logging
 ## Bonus – Integrate an IBM Watson Conversation enabled chatbot!
