@@ -8,10 +8,12 @@ This workshop will walk you through configuring, deploying and scaling a .NET ap
 It’s important to note that you will be using an HTML portal throughout the workshop, but you could just as easily, if not in most cases easier, take advantage of a REST API, CLI or Microsoft Visual Studio integration.  To take that a step further, you could use TFS or any CI/CD tool to automate steps like these in your CI/CD process.  This is important because it allows you to take all the benefits from the Apprenda and IBM Cloud solution without having to change the tools you use or process you’re accustomed to. 
 
 # Prerequisites
+
 ### An IBM Cloud account  
-The account requires an IBMid.  If you don’t have an IBMid, you can create one when you register.
-### The Marketing Dashboard .NET App in an Apprenda archive format
-[Link to download](https://github.com/apprenda/apprenda-ibm-cloud-workshop/raw/master/Marketing-Dashboard-Archive.zip)
+If you don't have one register [here](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjw6eD4nc7XAhUK64MKHeyHBlIQFggoMAA&url=https%3A%2F%2Fconsole.bluemix.net%2Fregistration%2F&usg=AOvVaw3eiPyFAhSRwvjqm8mH1os0).
+
+The account also requires an IBMid.  If you don’t have an IBMid, you can create one when you register or use this [link](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwjw6eD4nc7XAhUK64MKHeyHBlIQFgguMAE&url=https%3A%2F%2Fwww.ibm.com%2Faccount%2Fus-en%2Fsignup%2Fregister.html&usg=AOvVaw3I0OTmS6B2yVIS539FjYTQ).
+
 ### An Apprenda Platform account  
 If you have not been provided a link to create an account you can use the following steps:
 1. Navigate to the IBM Cloud console
@@ -21,6 +23,9 @@ If you have not been provided a link to create an account you can use the follow
 5. Select the Standard Plan and Click Create
 6. Open the Apprenda portal link
 7. Create your account
+
+### The Marketing Dashboard .NET App in an Apprenda archive format
+[Link to download](https://github.com/apprenda/apprenda-ibm-cloud-workshop/raw/master/Marketing-Dashboard-Archive.zip)
 
 # Agenda
 #### This workshop will walk through the following steps:
