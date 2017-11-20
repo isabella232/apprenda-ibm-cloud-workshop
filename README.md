@@ -15,7 +15,7 @@ If you don't have one register [here](https://www.google.com/url?sa=t&rct=j&q=&e
 The account also requires an IBMid.  If you don’t have an IBMid, you can create one when you register or use this [link](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwjw6eD4nc7XAhUK64MKHeyHBlIQFgguMAE&url=https%3A%2F%2Fwww.ibm.com%2Faccount%2Fus-en%2Fsignup%2Fregister.html&usg=AOvVaw3I0OTmS6B2yVIS539FjYTQ).
 
 ### An Apprenda Platform account  
-If you have not been provided a link to create an account you can use the following steps:
+If you have not been provided a link to create an account, you can use the following steps:
 1. Navigate to the IBM Cloud console
 2. Click Catalog
 3. Click Application Services from the left menu of options
