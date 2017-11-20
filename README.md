@@ -24,11 +24,11 @@ It’s important to note that you will be using an HTML portal throughout the wo
 ## Prerequisites
 ### An IBM Cloud account  
 The account requires an IBMid.  If you don’t have an IBMid, you can create one when you register.
-### .NET Application in Apprenda archive - [Link to download](https://github.com/apprenda/apprenda-ibm-cloud-workshop/raw/master/Marketing-Dashboard-Archive.zip)
+### .NET Application Apprenda archive - [Link to download](https://github.com/apprenda/apprenda-ibm-cloud-workshop/raw/master/Marketing-Dashboard-Archive.zip)
 ### An Apprenda Platform account.  To create an account follow these steps:
-#### 1.	Navigate to the IBM Cloud console
+#### 1. Navigate to the IBM Cloud console
 #### 2. Click Catalog
-#### 3. Click Application Services 
+#### 3. Click Application Services from the left menu of options
 #### 4. Click Apprenda Cloud Platform 
 #### 5. Select the Standard Plan and Click Create
 #### 6. Open the Apprenda portal link
