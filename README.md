@@ -24,8 +24,7 @@ It’s important to note that you will be using an HTML portal throughout the wo
 ## Prerequisites
 ### An IBM Cloud account  
 The account requires an IBMid.  If you don’t have an IBMid, you can create one when you register.
-### .NET Application in Apprenda archive - <a href="https://github.com/apprenda/apprenda-ibm-cloud-workshop/raw/master/Marketing-Dashboard-Archive.zip" target="_blank">Link to Download</a>
-[Link to download](https://github.com/apprenda/apprenda-ibm-cloud-workshop/raw/master/Marketing-Dashboard-Archive.zip)
+### .NET Application in Apprenda archive - [Link to download](https://github.com/apprenda/apprenda-ibm-cloud-workshop/raw/master/Marketing-Dashboard-Archive.zip)
 ### An Apprenda Platform account.  To create an account follow these steps:
 #### 1.	Navigate to the IBM Cloud console
 #### 2. Click Catalog
@@ -38,7 +37,7 @@ The account requires an IBMid.  If you don’t have an IBMid, you can create one
 ## Part 1 – Upload and Deploy a .NET Application with Apprenda
 ### Upload .NET app using an Apprenda Archive 
 
-#### 1. Navigate to the [Apprenda Developer Portal](https://apps.bm.apprenda.com) on IBM Cloud 
+#### 1. Navigate to the  <a href="https://apps.bm.apprenda.com">Link to Download</a> [Apprenda Developer Portal](https://apps.bm.apprenda.com) on IBM Cloud 
 #### 2. Click **+New** button to open the application drawer and fill out a unique application name and description  
 >You will notice the application alias is auto populated, you are able to change it if you like. (The alias is used by the platform to uniquely identify your application in the system and generate the URL used to access it.)
 #### 3. Click Select File to bring up a file explorer menu and locate the Apprenda archive downloaded from the prerequisites
