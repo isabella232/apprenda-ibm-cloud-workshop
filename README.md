@@ -24,7 +24,7 @@ It’s important to note that you will be using an HTML portal throughout the wo
 ## Prerequisites
 ### An IBM Cloud account  
 The account requires an IBMid.  If you don’t have an IBMid, you can create one when you register.
-### Sample .NET Application - [Link to download](https://github.com/apprenda/apprenda-ibm-cloud-workshop/raw/master/Marketing-Dashboard-Archive.zip)
+### .NET Application in Apprenda archive - [Link to download](https://github.com/apprenda/apprenda-ibm-cloud-workshop/raw/master/Marketing-Dashboard-Archive.zip)
 ### An Apprenda Platform account.  To create an account follow these steps:
 #### 1.	Navigate to the IBM Cloud console
 #### 2. Click Catalog
@@ -40,7 +40,7 @@ The account requires an IBMid.  If you don’t have an IBMid, you can create one
 #### 1. Navigate to the [Apprenda Developer Portal](https://apps.bm.apprenda.com) on IBM Cloud 
 #### 2. Click **+New** button to open the application drawer and fill out a unique application name and description  
 >You will notice the application alias is auto populated, you are able to change it if you like. (The alias is used by the platform to uniquely identify your application in the system and generate the URL used to access it.)
-#### 3. Click Select File to bring up a file explorer menu and locate the Apprenda archive in this repo
+#### 3. Click Select File to bring up a file explorer menu and locate the Apprenda archive downloaded from the prerequisites
 >**What is an Apprenda Archive?** Apprenda Archives are simply compressed ZIP (.zip) files that contain files organized in a pre-determined way. Apprenda uses this known structure to traverse the archive and extract information it uses to deploy your application. During the process of deployment, Apprenda first validates the contents of your archive against a set of rules that are designed to guarantee that your application will run properly on Apprenda in a secure and reliable fashion. Apprenda then extracts and catalogs your application’s files and resources and uses them as a foundation for serving your application to requesting Users.
 
 
