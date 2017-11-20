@@ -33,7 +33,6 @@ If you have not been provided a link to create an account you can use the follow
    - Upload .NET app using an Apprenda Archive	
    - Configure app’s Resource Policy
    - Promote app to Sandbox
-   - Update Resource Policy
 2. **Part 2 – Configure Cloud Features: Monitoring, Scaling, Logging**
    - Monitoring
    - Update scaling strategy
