@@ -21,7 +21,7 @@ It’s important to note that you will be using an HTML portal throughout the wo
    - Turn Watson Chat on
    - Promote application to Published 
 
-## Prerequisites
+# Prerequisites
 ### An IBM Cloud account  
 The account requires an IBMid.  If you don’t have an IBMid, you can create one when you register.
 ### The Marketing Dashboard .NET App in an Apprenda archive format
