@@ -41,4 +41,4 @@ If you have not been provided a link to create an account you can use the follow
    - Turn Watson Chat on
    - Promote application to Published 
 
-### Lets get started with [Part 1](https://github.com/apprenda/apprenda-ibm-cloud-workshop/wiki/Part-1-%E2%80%93-Upload-and-Deploy-a-.NET-Application-with-Apprenda)!
+### Lets get started with [Part 1](https://github.com/apprenda/apprenda-ibm-cloud-workshop/wiki/Part-1)!
