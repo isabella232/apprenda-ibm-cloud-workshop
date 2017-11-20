@@ -37,7 +37,7 @@ The account requires an IBMid.  If you don’t have an IBMid, you can create one
 ## Part 1 – Upload and Deploy a .NET Application with Apprenda
 ### Upload .NET app using an Apprenda Archive 
 
-#### 1. Navigate to the Apprenda on [IBM Cloud web portal](https://apps.bm.apprenda.com)
+#### 1. Navigate to the [Apprenda Developer Portal](https://apps.bm.apprenda.com) on IBM Cloud 
 #### 2. Click **+New** button to open the application drawer and fill out a unique application name and description  
 >You will notice the application alias is auto populated, you are able to change it if you like. (The alias is used by the platform to uniquely identify your application in the system and generate the URL used to access it.)
 #### 3. Click Select File to bring up a file explorer menu and locate the Apprenda archive in this repo
