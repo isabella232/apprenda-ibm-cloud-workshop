@@ -1,4 +1,4 @@
-# Apprenda for the IBM Cloud Workshop
+# Apprenda on the IBM Cloud Workshop
 Apprenda and IBM have partnered together to provide an experience native and natural for the Microsoft and .NET community. The Apprenda Platform integration is built using IBM Cloud tooling and with tooling on the Microsoft platform.  This is critical to ensure the solution is a true integration and not a bolt-on or afterthought. The solution is fully self-service with seamless onboarding. It’s a deep and rich experience for .NET developers.
 
 Before the Apprenda on IBM Cloud solution, customers might have considered rewriting everything they had from the past decade.  Now, they can leverage their expertise and quickly move over existing and new .NET applications and immediately take advantage of numerous cloud capabilities.  High-availability, scalability and the ability to seamlessly tap into the full range of IBM Cloud services are a few notable examples. 
