@@ -7,20 +7,6 @@ This workshop will walk you through configuring, deploying and scaling a .NET ap
 
 It’s important to note that you will be using an HTML portal throughout the workshop, but you could just as easily, if not in most cases easier, take advantage of a REST API, CLI or Microsoft Visual Studio integration.  To take that a step further, you could use TFS or any CI/CD tool to automate steps like these in your CI/CD process.  This is important because it allows you to take all the benefits from the Apprenda and IBM Cloud solution without having to change the tools you use or process you’re accustomed to. 
 
-#### This workshop will walk through the following steps:
-1. **Part 1 – Upload and Deploy a .NET Application with Apprenda**
-   - Upload .NET app using an Apprenda Archive	
-   - Configure app’s Resource Policy
-   - Promote app to Sandbox
-   - App Configuration
-2. **Part 2 – Configure Cloud Features: Monitoring, Scaling, Logging**
-   - Monitoring
-   - Update scaling strategy
-   - Configure a Log Override
-3. **Part 3 – Integrate an IBM Watson Conversation enabled chatbot!**
-   - Turn Watson Chat on
-   - Promote application to Published 
-
 # Prerequisites
 ### An IBM Cloud account  
 The account requires an IBMid.  If you don’t have an IBMid, you can create one when you register.
@@ -34,5 +20,20 @@ The account requires an IBMid.  If you don’t have an IBMid, you can create one
 #### 5. Select the Standard Plan and Click Create
 #### 6. Open the Apprenda portal link
 #### 7. Create your account
+
+# Agenda
+#### This workshop will walk through the following steps:
+1. **Part 1 – Upload and Deploy a .NET Application with Apprenda**
+   - Upload .NET app using an Apprenda Archive	
+   - Configure app’s Resource Policy
+   - Promote app to Sandbox
+   - App Configuration
+2. **Part 2 – Configure Cloud Features: Monitoring, Scaling, Logging**
+   - Monitoring
+   - Update scaling strategy
+   - Configure a Log Override
+3. **Part 3 – Integrate an IBM Watson Conversation enabled chatbot!**
+   - Turn Watson Chat on
+   - Promote application to Published 
 
 ### Lets get started with [Part 1](https://github.com/apprenda/apprenda-ibm-cloud-workshop/wiki/Part-1-%E2%80%93-Upload-and-Deploy-a-.NET-Application-with-Apprenda)!
